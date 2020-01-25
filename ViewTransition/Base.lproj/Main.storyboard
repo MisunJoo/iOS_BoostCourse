@@ -58,7 +58,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="z4Q-hv-Kb3"/>
                     <connections>
-                        <outlet property="ageField" destination="Gv4-Wd-88K" id="d1u-U9-oTS"/>
+                        <outlet property="ageField" destination="Gv4-Wd-88K" id="mQB-Lh-zeb"/>
                         <outlet property="nameField" destination="Kjb-JJ-rQ4" id="51g-zg-ChF"/>
                     </connections>
                 </viewController>

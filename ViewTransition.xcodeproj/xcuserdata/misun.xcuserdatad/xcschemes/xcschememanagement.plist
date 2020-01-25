@@ -4,10 +4,32 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ViewTransition.xcscheme_^#shared#^_</key>
+		<key>ViewTransition copy.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ViewTransition.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9FB022F523DC6AC200A788EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9FC93D0523DB317F00C4C4E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
